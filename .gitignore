@@ -1,0 +1,13 @@
+# Environment files
+.env
+*.env
+
+# Colab/Jupyter specific
+.ipynb_checkpoints/
+__pycache__/
+
+# Data files (if large or sensitive and you don't want to commit them)
+data/
+
+# Vectorstore files
+vectorstore/

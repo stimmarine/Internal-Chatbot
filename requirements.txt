@@ -1,0 +1,12 @@
+# Google Generative AI and LlamaIndex
+google-generativeai
+llama-index>=0.10
+faiss-cpu
+# Document Loaders
+pandas
+python-docx
+PyMuPDF
+# Web App
+streamlit
+# Other
+tiktoken
