@@ -1,12 +1,13 @@
-# Google Generative AI and LlamaIndex
 google-generativeai
-llama-index>=0.10
-faiss-cpu
-# Document Loaders
-pandas
-python-docx
-PyMuPDF
-# Web App
 streamlit
-# Other
+faiss-cpu
+python-docx
 tiktoken
+PyMuPDF
+pyngrok
+pandas
+docx2txt
+llama-index>=0.10
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+llama-index-vector-stores-faiss
